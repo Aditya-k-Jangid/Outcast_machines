@@ -153,6 +153,4 @@ cat root.txt
 
 ROOTED...
 
-> Solid AD box for beginners — covers SMB enumeration, .NET reverse engineering, LDAP manual hunting, and RBCD which is a must-know for AD pentesting. The `info` field trick is something a lot of people miss when they rely only on Bloodhound.
-
 RATING : 4/5 
