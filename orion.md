@@ -1,5 +1,5 @@
 
-```markdown
+
 # Orion — HackTheBox Writeup
 
 ## Enumeration
