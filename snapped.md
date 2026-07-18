@@ -1,6 +1,6 @@
 # ▓▓▓ SN▓PPED — HTB WR1TEUP ▓▓▓
 
-
+https://github.com/Aditya-k-Jangid/Outcast_machines/blob/main/Assects/snapped/Screenshot%202026-07-11%20155615.png
 
 ```
 　　　 　／＞　　フ
