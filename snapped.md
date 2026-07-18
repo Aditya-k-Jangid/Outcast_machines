@@ -1,5 +1,5 @@
 
-![[Pasted image 20260718104235.png]]
+
 
 
 lets start with nmap :
