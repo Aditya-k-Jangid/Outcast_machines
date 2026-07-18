@@ -1,6 +1,6 @@
 # ▓▓▓ SN▓PPED — HTB WR1TEUP ▓▓▓
 
-https://github.com/Aditya-k-Jangid/Outcast_machines/blob/main/Assects/snapped/Screenshot%202026-07-11%20155615.png
+![](https://github.com/Aditya-k-Jangid/Outcast_machines/blob/main/Assects/snapped/Screenshot%202026-07-18%20104234.png)
 
 ```
 　　　 　／＞　　フ
@@ -34,6 +34,8 @@ Simple attack surface — sk▓pped a full port scan, went stra▓ght to web.
 
 Static site for "Sn▓pped." Only info found: `c▓ntact@sn▓pped.htb`.
 
+![](https://github.com/Aditya-k-Jangid/Outcast_machines/blob/main/Assects/snapped/Screenshot%202026-07-11%20155615.png)
+
 Nothing on main site → subd▓main fuzzing kicked off in bg.
 
 ```
@@ -58,6 +60,8 @@ ffuf -w Desktop/wordlists/subdomain/subdomains-top1million-110000.txt \
 ```
 adm▓n   [Status: 200, Size: 1407, Words: 164, Lines: 50, Duration: 334ms]
 ```
+
+![](https://github.com/Aditya-k-Jangid/Outcast_machines/blob/main/Assects/snapped/Screenshot%202026-07-11%20160336.png)
 
 `▓dmin.snapped.htb` → Ngin▓-UI login page. No default creds, no version banner v▓sible.
 
